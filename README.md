@@ -1,6 +1,7 @@
 # MSDS-Slack-Reactions
 
 # Emoji reactions across the Cohort 7 MSDS Slack Workspace
+Check it out [here](https://msds2019.herokuapp.com/) (Wait for it to load... it is running on free dynos!)
 
 ### Data Visualization Final Project
 
